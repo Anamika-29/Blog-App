@@ -1,4 +1,4 @@
-# Blog-App(Frontend-Assignment)
+# Blog-App
 
 You can see the Blog Application here [link](https://frontend-assignment-ba627.web.app)
 
